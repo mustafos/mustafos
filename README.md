@@ -9,12 +9,10 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-349DDD?style=flat&logo=xcode&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/-Figma-349DDD?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-GitHub-349DDD?style=flat&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-349DDD?style=flat&logo=coredata&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-349DDD?style=flat&logo=sqlite&logoColor=white)
 
 ### My statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafos&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafos&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Follow Me 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-349DDD?style=flat&logo=linkedin&logoColor=white)](urlSocial)
