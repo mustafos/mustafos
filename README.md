@@ -11,9 +11,6 @@
 ![Git](https://img.shields.io/badge/-GitHub-349DDD?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-349DDD?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### My statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafos&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Follow Me 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-349DDD?style=flat&logo=linkedin&logoColor=white)](urlSocial)
 [![Telegram](https://img.shields.io/badge/-Telegram-349DDD?style=flat&logo=telegram&logoColor=white)](urlSocial)
