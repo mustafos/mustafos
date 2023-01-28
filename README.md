@@ -1,6 +1,7 @@
 [![Header](https://github.com/mustafos/mustafos/blob/master/assets/header.gif)](https://mustafos.github.io)
 
 ## I'm a beginner iOS Developer
+[![Codewars](https://www.codewars.com/users/mustafos/badges/large)](https://www.codewars.com/users/mustafos)
 
 ### 🧠 Language and Tools
 ![Swift](https://img.shields.io/badge/-Swift-349DDD?style=for-the-badge&logo=swift&logoColor=white)
@@ -9,7 +10,7 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-349DDD?style=for-the-badge&logo=xcode&logoColor=white)
 ![UI/UX design](https://img.shields.io/badge/-Figma-349DDD?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-349DDD?style=for-the-badge&logo=git&logoColor=white)
-![GCD&Optional](https://img.shields.io/badge/-Multithreading-349DDD?style=for-the-badge&logo=circle&logoColor=white)
+![GCD](https://img.shields.io/badge/-Multithreading-349DDD?style=for-the-badge&logo=circle&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-349DDD?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🔎 Follow Me 
