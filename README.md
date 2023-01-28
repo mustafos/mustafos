@@ -1,7 +1,7 @@
 [![Header](https://github.com/mustafos/mustafos/blob/master/assets/header.gif)](https://mustafos.github.io)
 
 ## I'm a beginner iOS Developer
-[![Codewars](https://www.codewars.com/users/mustafos/badges/large)](https://www.codewars.com/users/mustafos)
+[![Codewars](https://www.codewars.com/users/mustafos/badges/small)](https://www.codewars.com/users/mustafos)
 
 ### 🧠 Language and Tools
 ![Swift](https://img.shields.io/badge/-Swift-349DDD?style=for-the-badge&logo=swift&logoColor=white)
