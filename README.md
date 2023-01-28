@@ -9,7 +9,7 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-349DDD?style=for-the-badge&logo=xcode&logoColor=white)
 ![UI/UX design](https://img.shields.io/badge/-Figma-349DDD?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-349DDD?style=for-the-badge&logo=git&logoColor=white)
-![Multithreading](https://img.shields.io/badge/-Multithreading-349DDD?style=for-the-badge&logo=infiniti&logoColor=white)
+![GCD&Optional](https://img.shields.io/badge/-Multithreading-349DDD?style=for-the-badge&logo=circle&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-349DDD?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🔎 Follow Me 
