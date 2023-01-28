@@ -1,14 +1,15 @@
 [![Header](https://github.com/mustafos/mustafos/blob/master/assets/header.gif)](https://mustafos.github.io)
 
-## I'm a beginner iOS Mobile Developer
+## I'm a beginner iOS Developer
 
 ### 🧠 Language and Tools
 ![Swift](https://img.shields.io/badge/-Swift-349DDD?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/-UIKit-349DDD?style=for-the-badge&logo=uikit&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-349DDD?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-349DDD?style=for-the-badge&logo=xcode&logoColor=white)
-![UI/UX](https://img.shields.io/badge/-Figma-349DDD?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX design](https://img.shields.io/badge/-Figma-349DDD?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-349DDD?style=for-the-badge&logo=git&logoColor=white)
+![Multithreading]((https://img.shields.io/badge/-Multithreading-349DDD?style=for-the-badge&logo=infiniti&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-349DDD?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🔎 Follow Me 
