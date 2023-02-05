@@ -2,8 +2,11 @@
 
 ### ✅ Summary
 As a skilled iOS developer, I have a passion for creating innovative applications. I have a strong understanding of the iOS platform and the ability to build apps that meet the needs of users.
+
 My experience in developing and deploying iOS apps, combined with my problem-solving skills and attention to detail, have enabled me to create high-quality and robust apps. I have a strong understanding of design patterns, and I am proficient in using Xcode, Cocoa Touch, and other tools and technologies.
+
 In addition, I am a quick learner and always eager to expand my knowledge and skills. I am a team player, able to work effectively with cross-functional teams, and I have excellent communication and interpersonal skills.
+
 I am confident in my ability to contribute to the success of an iOS development team and to bring value to any organization I work for. I am excited about the opportunity to work on challenging projects and to continue to grow and develop as an iOS developer.
 
 ### ✅ Skills and Tools [![Codewars](https://www.codewars.com/users/mustafos/badges/small)](https://www.codewars.com/users/mustafos)
