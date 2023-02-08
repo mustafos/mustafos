@@ -17,7 +17,7 @@ I am confident in my ability to contribute to the success of an iOS development 
 ![Figma](https://img.shields.io/badge/-Figma-349DDD?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-349DDD?style=for-the-badge&logo=git&logoColor=white)
 ![GCD](https://img.shields.io/badge/-Multithreading-349DDD?style=for-the-badge&logo=circle&logoColor=white)
-![Networking](https://img.shields.io/badge/-Networking-349DDD?style=for-the-badge&logo=ethernet&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-349DDD?style=for-the-badge&logo=netflix&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-349DDD?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ✅ Contact Me 
