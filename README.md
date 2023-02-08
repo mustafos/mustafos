@@ -17,10 +17,10 @@ I am confident in my ability to contribute to the success of an iOS development 
 ![Figma](https://img.shields.io/badge/-Figma-349DDD?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-349DDD?style=for-the-badge&logo=git&logoColor=white)
 ![GCD](https://img.shields.io/badge/-Multithreading-349DDD?style=for-the-badge&logo=circle&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST-349DDD?style=for-the-badge&logo=rest&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-349DDD?style=for-the-badge&logo=ethernet&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-349DDD?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ✅ Contact Me 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-349DDD?style=flat&logo=linkedin&logoColor=white)](urlSocial)
 [![Telegram](https://img.shields.io/badge/-Telegram-349DDD?style=flat&logo=telegram&logoColor=white)](urlSocial)
-[![Upwork](https://img.shields.io/badge/-Twitter-349DDD?style=flat&logo=upwork&logoColor=white)](urlSocial)
+[![Upwork](https://img.shields.io/badge/-Upwork-349DDD?style=flat&logo=upwork&logoColor=white)](urlSocial)
