@@ -20,7 +20,7 @@
 ![Sketch](https://img.shields.io/badge/-Sketch-349DDD?style=for-the-badge&logo=sketch&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-349DDD?style=for-the-badge&logo=git&logoColor=white)
 ![GCD](https://img.shields.io/badge/-Concurrency-349DDD?style=for-the-badge&logo=circle&logoColor=white)
-![Networkink](https://img.shields.io/badge/-REST-349DDD?style=for-the-badge&logo=fastapi&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-349DDD?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-349DDD?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Patterns](https://img.shields.io/badge/-Patterns-349DDD?style=for-the-badge&logo=electron&logoColor=white)
 ![Algorithmus](https://img.shields.io/badge/-Algorithmus-349DDD?style=for-the-badge&logo=algorithms&logoColor=white)
