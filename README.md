@@ -13,7 +13,7 @@ My experience in developing and deploying iOS apps, combined with my problem-sol
 ![Git](https://img.shields.io/badge/-Git-349DDD?style=for-the-badge&logo=git&logoColor=white)
 ![GCD](https://img.shields.io/badge/-Concurrency-349DDD?style=for-the-badge&logo=circle&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-349DDD?style=for-the-badge&logo=anaconda&logoColor=white)
-![RDBMS](https://img.shields.io/badge/-RDBMS-349DDD?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/Relational_database#RDBMS)
+![RDBMS](https://img.shields.io/badge/-RDBMS-349DDD?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ✅ Contact Me 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-349DDD?style=flat&logo=linkedin&logoColor=white)](urlSocial)
