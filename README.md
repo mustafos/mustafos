@@ -8,6 +8,7 @@ My experience in developing and deploying iOS apps, combined with my problem-sol
 ![UIKit](https://img.shields.io/badge/-UIKit-349DDD?style=for-the-badge&logo=uikit&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-349DDD?style=for-the-badge&logo=swift&logoColor=white)
 ![RXSwift](https://img.shields.io/badge/-RXSwift-349DDD?style=for-the-badge&logo=reactivex&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/-CocoaPods-349DDD?style=for-the-badge&logo=cocoapods&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-349DDD?style=for-the-badge&logo=xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-349DDD?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-349DDD?style=for-the-badge&logo=git&logoColor=white)
@@ -17,5 +18,5 @@ My experience in developing and deploying iOS apps, combined with my problem-sol
 
 ### ✅ Contact Me 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-349DDD?style=flat&logo=linkedin&logoColor=white)](urlSocial)
-[![Telegram](https://img.shields.io/badge/-Telegram-349DDD?style=flat&logo=telegram&logoColor=white)](urlSocial)
+[![Telegram](https://img.shields.io/badge/-Telegram-349DDD?style=flat&logo=telegram&logoColor=white)](https://t.me/mustafosID)
 [![Upwork](https://img.shields.io/badge/-Upwork-349DDD?style=flat&logo=upwork&logoColor=white)](urlSocial)
