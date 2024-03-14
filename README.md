@@ -35,8 +35,8 @@ My experience in developing and deploying iOS applications, combined with my pro
 ### 📊 Stats
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafos&bg_color=282C34&color=FFFFFF&line=FFFFFF&point=349DDD" width="95%">
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=mustafos&count_private=true&include_all_commits=true&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=349DDD&bg_color=282C34"/>
 <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=mustafos&theme=sea&background=282C34">
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=mustafos&count_private=true&include_all_commits=true&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=349DDD&bg_color=282C34"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafos&layout=compact&title_color=FFFFFF&text_color=FFFFFF&icon_color=349DDD&bg_color=282C34"/>
 <br>
 <br>
