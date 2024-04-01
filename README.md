@@ -20,7 +20,9 @@ My experience in developing and deploying iOS applications, combined with my pro
 </div>
 
 ### 🪄 Last Projects!
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mustafos&repo=PetProjects&bg_color=282C34&title_color=FFFFFF&text_color=FFFFFF&icon_color=349DDD)](https://github.com/mustafos/PetProjects) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mustafos&repo=BankApp&bg_color=282C34&title_color=FFFFFF&text_color=FFFFFF&icon_color=349DDD)](https://github.com/mustafos/BankApp)
+[<img src="https://github.com/mustafos/mustafos/blob/master/assets/driver.png" width="150" height="150" style="150px">](https://apps.apple.com/cz/app/driverpro-plan-study-test/id6474212227) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mustafos&repo=PetProjects&bg_color=282C34&title_color=FFFFFF&text_color=FFFFFF&icon_color=349DDD)](https://github.com/mustafos/PetProjects) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mustafos&repo=BankApp&bg_color=282C34&title_color=FFFFFF&text_color=FFFFFF&icon_color=349DDD)](https://github.com/mustafos/BankApp)
 
 ### 📱 Contact Me 
 <p>
