@@ -32,8 +32,9 @@ Become a professional driver with DriverPro!
 <p align="center">
 <a href="https://apps.apple.com/cz/app/driverpro-plan-study-test/id6474212227" target="_blank"><img src="assets/driver.png" width="900" title="DriverPro: Plan, Study, Test!"></a>
 </p>
-<!---->
-## [MarsSnap – Explore, Discover, Share!](https://github.com/mustafos/MarsSnap)
+
+## [MarsSnap: Explore, Discover, Share!](https://github.com/mustafos/MarsSnap)
+
 MarsSnap is your gateway to the Red Planet! Get ready for an amazing journey of discovery with our app, where you can explore stunning photos captured directly from Mars. From breathtaking landscapes to fascinating geological features, you'll be amazed by the wonders of another world. With MarsSnap, your journey to Mars begins right in the palm of your hand. Join the adventure, explore the unknown, and share the excitement with friends and fellow space enthusiasts. Get ready to unlock the secrets of the universe with MarsSnap!
 [Download the app now!](https://github.com/mustafos/MarsSnap)
 
@@ -42,7 +43,7 @@ MarsSnap is your gateway to the Red Planet! Get ready for an amazing journey of 
 <p align="center">
 <a href="https://github.com/mustafos/MarsSnap" target="_blank"><img src="assets/mars.png" width="900" title="MarsSnap – Explore, Discover, Share!"></a>
 </p>
-<!---->
+
 # 📱 Contact Me 
 <p>
   <a href="https://github.com/mustafos" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> 
