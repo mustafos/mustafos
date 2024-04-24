@@ -36,7 +36,7 @@ Become a professional driver with DriverPro!
 ## [MarsSnap: Explore, Discover, Share!](https://github.com/mustafos/MarsSnap)
 
 MarsSnap is your gateway to the Red Planet! Get ready for an amazing journey of discovery with our app, where you can explore stunning photos captured directly from Mars. From breathtaking landscapes to fascinating geological features, you'll be amazed by the wonders of another world. With MarsSnap, your journey to Mars begins right in the palm of your hand. Join the adventure, explore the unknown, and share the excitement with friends and fellow space enthusiasts. Get ready to unlock the secrets of the universe with MarsSnap!
-[Download the app now!](https://github.com/mustafos/MarsSnap)
+[👉GitHub repository👈](https://github.com/mustafos/MarsSnap)
 
 ##### 🛠️ Technologies: Swift, SwiftUI, Realm, MVVM, Alamofire, Lottie.
 ##### 📱 Platform: iOS
