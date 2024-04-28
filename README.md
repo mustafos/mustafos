@@ -44,6 +44,16 @@ MarsSnap is your gateway to the Red Planet! Get ready for an amazing journey of 
 <a href="https://github.com/mustafos/MarsSnap" target="_blank"><img src="assets/mars.png" width="900" title="MarsSnap – Explore, Discover, Share!"></a>
 </p>
 
+## [Portfolio Website](https://mustafos.github.io)
+
+I am pleased to present my portfolio, which represents the culmination of my studies in the renowned CS50 course by Harvard University. It is my hope that this showcase will demonstrate my skills, passion, and dedication to the field of computer science and related disciplines. Each project reflects my commitment to excellence and my thirst for knowledge, as well as my ability to apply theoretical concepts to practical solutions. I invite you to explore the creations born from countless hours of learning.
+
+##### 🛠️ Technologies: HTML, CSS, JavaScript
+##### 🖥️ Platform: Web
+<p align="center">
+<a href="https://mustafos.github.io" target="_blank"><img src="assets/website.png" width="900" title="Portfolio"></a>
+</p>
+
 # 📱 Contact Me 
 <p>
   <a href="https://github.com/mustafos" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> 
