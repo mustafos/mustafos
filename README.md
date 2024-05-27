@@ -58,8 +58,8 @@ I am pleased to present my portfolio, which represents the culmination of my stu
 <p>
   <a href="https://github.com/mustafos" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> 
   <a href="https://t.me/mustafosID" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a> 
-  <a href="https://www.linkedin.com/in/mustafabekirov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://medium.com/@mustafos1999" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mustafabekirov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@mustafos" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://www.upwork.com/freelancers/~011f344b230ef86aa7" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork-%118A00.svg?&style=for-the-badge&logo=upwork&logoColor=white" /></a> 
   <a href="https://apps.apple.com/cz/developer/mustafa-bekirov/id1721037757" target="_blank"><img alt="AppStore" src="https://img.shields.io/badge/AppStore-%231DA1F2.svg?&style=for-the-badge&logo=AppStore&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=mustafos" alt="gargakshit"/>
