@@ -20,6 +20,16 @@ My experience in developing and deploying iOS applications, combined with my pro
 </div>
 
 # 🪄 Last Projects!
+## [GoogleScrape](https://github.com/mustafos/GoogleScrape)
+GoogleScrape is a simple web application designed to fetch and parse organic search results from Google. The application provides a user-friendly interface with an input field where you can enter a search query, and it returns the results from the first page of Google's organic search in a structured format.
+[🔗Available on GitHub](https://github.com/mustafos/GoogleScrape)
+
+##### 🛠️ Technologies: HTML, CSS, JavaScript, Python, Flask.
+##### 🖥️ Platform: Web
+<p align="center">
+<a href="https://github.com/mustafos/GoogleScrape" target="_blank"><img src="https://github.com/mustafos/GoogleScrape/blob/master/illustration/banner.gif" width="900" title="GoogleScrape"></a>
+</p>
+
 ## [AppStore Clone](https://github.com/mustafos/AppStore)
 This project was a fantastic opportunity to hone my skills in SwiftUI and Combine, and I also took on the challenge of migrating the application to iOS 17.5. I learned a lot about modern iOS development and the latest advancements in the ecosystem. I'm always looking to improve and would love to hear your feedback! Feel free to clone, fork, and contribute to the project. Let's make it better together!
 [Available on GitHub](https://github.com/mustafos/AppStore)
@@ -56,7 +66,7 @@ MarsSnap is your gateway to the Red Planet! Get ready for an amazing journey of 
 
 ## [Portfolio Website](https://mustafos.github.io)
 
-I am pleased to present my portfolio, which represents the culmination of my studies in the renowned CS50 course by Harvard University. It is my hope that this showcase will demonstrate my skills, passion, and dedication to the field of computer science and related disciplines. Each project reflects my commitment to excellence and my thirst for knowledge, as well as my ability to apply theoretical concepts to practical solutions. I invite you to explore the creations born from countless hours of learning.
+I am pleased to present my portfolio, which represents the culmination of my studies in the renowned CS50 course by Harvard University. It is my hope that this showcase will demonstrate my skills, passion, and dedication to the field of computer science and related disciplines. Each project reflects my commitment to excellence and my thirst for knowledge, as well as my ability to apply theoretical concepts to practical solutions. I invite you to explore the creations born from countless hours of learning. [Go to the web 🌐](https://mustafos.github.io)
 
 ##### 🛠️ Technologies: HTML, CSS, JavaScript
 ##### 🖥️ Platform: Web
