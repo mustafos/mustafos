@@ -20,26 +20,6 @@ My experience in developing and deploying iOS applications, combined with my pro
 </div>
 
 # 🪄 Last Projects!
-## [GoogleScrape](https://github.com/mustafos/GoogleScrape)
-GoogleScrape is a simple web application designed to fetch and parse organic search results from Google. The application provides a user-friendly interface with an input field where you can enter a search query, and it returns the results from the first page of Google's organic search in a structured format.
-[🔗Available on GitHub](https://github.com/mustafos/GoogleScrape)
-
-##### 🛠️ Technologies: HTML, CSS, JavaScript, Python, Flask.
-##### 🖥️ Platform: Web
-<p align="center">
-<a href="https://github.com/mustafos/GoogleScrape" target="_blank"><img src="https://github.com/mustafos/GoogleScrape/blob/master/illustration/banner.gif" width="900" title="GoogleScrape"></a>
-</p>
-
-## [AppStore Clone](https://github.com/mustafos/AppStore)
-This project was a fantastic opportunity to hone my skills in SwiftUI and Combine, and I also took on the challenge of migrating the application to iOS 17.5. I learned a lot about modern iOS development and the latest advancements in the ecosystem. I'm always looking to improve and would love to hear your feedback! Feel free to clone, fork, and contribute to the project. Let's make it better together!
-[Available on GitHub](https://github.com/mustafos/AppStore)
-
-##### 🛠️ Technologies: Swift, SwiftUI, Combine, MVVM-C.
-##### 📱 Platform: iOS
-<p align="center">
-<a href="https://github.com/mustafos/AppStore" target="_blank"><img src="https://github.com/mustafos/AppStore/blob/master/appstore_banner.png" width="900" title="AppStore Clone"></a>
-</p>
-
 ## [DriverPro: Plan, Study, Test!](https://apps.apple.com/cz/app/driverpro-plan-study-test/id6474212227)
 DriverPro is your comprehensive guide on the journey to becoming a skilled and confident driver in the Czech Republic. Whether you are a beginner, an experienced driver seeking improvement, or preparing for a driving test, DriverPro simplifies your learning process. Our application follows a simple but effective mantra: Plan,
 Study, Test.
@@ -53,10 +33,17 @@ Become a professional driver with DriverPro!
 <a href="https://apps.apple.com/cz/app/driverpro-plan-study-test/id6474212227" target="_blank"><img src="assets/driver.png" width="900" title="DriverPro: Plan, Study, Test!"></a>
 </p>
 
-## [MarsSnap: Explore, Discover, Share!](https://github.com/mustafos/MarsSnap)
+## [AppStore Clone](https://github.com/mustafos/AppStore)
+This project was a fantastic opportunity to hone my skills in SwiftUI and Combine, and I also took on the challenge of migrating the application to iOS 17.5. I learned a lot about modern iOS development and the latest advancements in the ecosystem. I'm always looking to improve and would love to hear your feedback! Feel free to clone, fork, and contribute to the project. Let's make it better together! [Available on GitHub](https://github.com/mustafos/AppStore)
 
-MarsSnap is your gateway to the Red Planet! Get ready for an amazing journey of discovery with our app, where you can explore stunning photos captured directly from Mars. From breathtaking landscapes to fascinating geological features, you'll be amazed by the wonders of another world. With MarsSnap, your journey to Mars begins right in the palm of your hand. Join the adventure, explore the unknown, and share the excitement with friends and fellow space enthusiasts. Get ready to unlock the secrets of the universe with MarsSnap!
-[👉GitHub repository👈](https://github.com/mustafos/MarsSnap)
+##### 🛠️ Technologies: Swift, SwiftUI, Combine, MVVM-C.
+##### 📱 Platform: iOS
+<p align="center">
+<a href="https://github.com/mustafos/AppStore" target="_blank"><img src="https://github.com/mustafos/AppStore/blob/master/appstore_banner.png" width="900" title="AppStore Clone"></a>
+</p>
+
+## [MarsSnap: Explore, Discover, Share!](https://github.com/mustafos/MarsSnap)
+MarsSnap is your gateway to the Red Planet! Get ready for an amazing journey of discovery with our app, where you can explore stunning photos captured directly from Mars. From breathtaking landscapes to fascinating geological features, you'll be amazed by the wonders of another world. With MarsSnap, your journey to Mars begins right in the palm of your hand. Join the adventure, explore the unknown, and share the excitement with friends and fellow space enthusiasts. Get ready to unlock the secrets of the universe with MarsSnap! [👉GitHub repository👈](https://github.com/mustafos/MarsSnap)
 
 ##### 🛠️ Technologies: Swift, SwiftUI, Realm, MVVM, Alamofire, Lottie.
 ##### 📱 Platform: iOS
@@ -64,8 +51,26 @@ MarsSnap is your gateway to the Red Planet! Get ready for an amazing journey of 
 <a href="https://github.com/mustafos/MarsSnap" target="_blank"><img src="assets/mars.png" width="900" title="MarsSnap – Explore, Discover, Share!"></a>
 </p>
 
-## [Portfolio Website](https://mustafos.github.io)
+## [Olympus Gold: Conquer the Reels of Fortune!](https://github.com/mustafos/GateOfOlympus)
+Olympus Gold is an exciting mobile game that lets you embark on a thrilling adventure filled with challenges, prizes, and surprises! Spin the Wheel of Fortune, complete levels, and collect rewards while enjoying stunning graphics and smooth animations. With integrated ads from Google Mobile Ads, you can unlock even more content as you play. Whether you're a casual gamer or a competitive player, Olympus Gold offers endless fun and opportunities to win. Get ready to dive into a world of excitement—your journey to Olympus starts now! 
+[🎰 Check it out on GitHub 🎰](https://github.com/mustafos/GateOfOlympus)
 
+##### 🛠️ Technologies: Swift, SwiftUI, GoogleAds, In-App Purchase.
+##### 📱 Platform: iOS & iPadOS
+<p align="center">
+<a href="https://github.com/mustafos/GateOfOlympus" target="_blank"><img src="assets/olympus.png" width="900" title="Olympus Gold"></a>
+</p>
+
+## [GoogleScrape](https://github.com/mustafos/GoogleScrape)
+GoogleScrape is a simple web application designed to fetch and parse organic search results from Google. The application provides a user-friendly interface with an input field where you can enter a search query, and it returns the results from the first page of Google's organic search in a structured format. [🔗Available on GitHub](https://github.com/mustafos/GoogleScrape)
+
+##### 🛠️ Technologies: HTML, CSS, JavaScript, Python, Flask.
+##### 🖥️ Platform: Web
+<p align="center">
+<a href="https://github.com/mustafos/GoogleScrape" target="_blank"><img src="https://github.com/mustafos/GoogleScrape/blob/master/illustration/banner.gif" width="900" title="GoogleScrape"></a>
+</p>
+
+## [Portfolio Website](https://mustafos.github.io)
 I am pleased to present my portfolio, which represents the culmination of my studies in the renowned CS50 course by Harvard University. It is my hope that this showcase will demonstrate my skills, passion, and dedication to the field of computer science and related disciplines. Each project reflects my commitment to excellence and my thirst for knowledge, as well as my ability to apply theoretical concepts to practical solutions. I invite you to explore the creations born from countless hours of learning. [Go to the web 🌐](https://mustafos.github.io)
 
 ##### 🛠️ Technologies: HTML, CSS, JavaScript
