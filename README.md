@@ -1,22 +1,101 @@
-[![Header](https://github.com/mustafos/mustafos/blob/master/assets/header.gif)](https://mustafos.github.io)
+ [![Header](https://github.com/mustafos/mustafos/blob/master/assets/header.gif)](https://mustafos.github.io)
 
 # 📣 Summary 
 My experience in developing and deploying iOS applications, combined with my problem-solving skills and attention to detail, has enabled me to create high-quality and robust applications. I am a quick learner and always eager to expand my knowledge and skills. I'm a team player who can work effectively with cross-functional teams.
 
 # 🛠️ Tools &nbsp; [![Codewars](https://www.codewars.com/users/mustafos/badges/small)](https://www.codewars.com/users/mustafos)
 <div>
+<h4>Languages & Frameworks</h4>
+<div>
 <img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=349DDD" alt="Swift logo" title="Swift" height="25"/>
 <img src="https://img.shields.io/badge/UIKit-282C34?logo=uikit&logoColor=349DDD" alt="UIKit logo" title="UIKit" height="25"/>
 <img src="https://img.shields.io/badge/SwiftUI-282C34?logo=swift&logoColor=349DDD" alt="SwiftUI logo" title="SwiftUI" height="25"/>
 <img src="https://img.shields.io/badge/SpriteKit-282C34?logo=unity&logoColor=349DDD" alt="SpriteKit logo" title="SpriteKit" height="25"/>
-<img src="https://img.shields.io/badge/Xcode-282C34?logo=xcode&logoColor=349DDD" alt="Xcode logo" title="Xcode" height="25"/>
-<img src="https://img.shields.io/badge/iOS-282C34?logo=apple&logoColor=349DDD" alt="iOS logo" title="iOS" height="25"/>
-<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=349DDD" alt="Git logo" title="Git" height="25"/>
-<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=349DDD" alt="Figma logo" title="Figma" height="25"/>
-<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=349DDD" alt="Firebase logo" title="Firebase" height="25"/>
+</div>
+
+<h4>Architectural Patterns</h4>
+<div>
+<img src="https://img.shields.io/badge/MVC-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/MVVM-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/MVVM+C-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/MVP-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/TCA-282C34?logoColor=349DDD" height="25"/>
+</div>
+
+<h4>Data Storage</h4>
+<div>
+<img src="https://img.shields.io/badge/UserDefaults-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/CoreData-282C34?logoColor=349DDD" height="25"/>
 <img src="https://img.shields.io/badge/Realm-282C34?logo=realm&logoColor=349DDD" alt="Realm logo" title="Realm" height="25"/>
-<img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=349DDD" alt="Slack logo" title="Slack" height="25"/>
+<img src="https://img.shields.io/badge/Keychain-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/SwiftData-282C34?logo=swift&logoColor=349DDD" alt="SwiftData logo" title="SwiftData" height="25"/>
+</div>
+
+<h4>Networking</h4>
+<div>
+<img src="https://img.shields.io/badge/REST_API-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/URLSession-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/Alamofire-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/Moya-282C34?logoColor=349DDD" height="25"/>
+</div>
+
+<h4>Concurrency</h4>
+<div>
+<img src="https://img.shields.io/badge/NSThreads-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/Grand_Central_Dispatch-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/OperationQueue-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/Swift_Concurrency-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/Combine-282C34?logoColor=349DDD" height="25"/>
+</div>
+
+<h4>Analytics</h4>
+<div>
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=349DDD" alt="Firebase logo" title="Firebase" height="25"/>
+<img src="https://img.shields.io/badge/Amplitude-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/AppsFlyer-282C34?logoColor=349DDD" height="25"/>
+</div>
+
+<h4>Monetization</h4>
+<div>
+<img src="https://img.shields.io/badge/StoreKit-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/AppHud-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/Adapty-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/RevenueCat-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/AdMob-282C34?logoColor=349DDD" height="25"/>
+</div>
+
+<h4>CI/CD</h4>
+<div>
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=349DDD" alt="Git logo" title="Git" height="25"/>
+<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=349DDD" alt="GitHub logo" title="GitHub" height="25"/>
+<img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=349DDD" alt="GitLab logo" title="GitLab" height="25"/>
+<img src="https://img.shields.io/badge/Bitbucket-282C34?logo=bitbucket&logoColor=349DDD" alt="Bitbucket logo" title="Bitbucket" height="25"/>
 <img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=349DDD" alt="Jira logo" title="Jira" height="25"/>
+<img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=349DDD" alt="Slack logo" title="Slack" height="25"/>
+<img src="https://img.shields.io/badge/Confluence-282C34?logo=confluence&logoColor=349DDD" alt="Confluence logo" title="Confluence" height="25"/>
+</div>
+
+<h4>Development Tools</h4>
+<div>
+<img src="https://img.shields.io/badge/Xcode-282C34?logo=xcode&logoColor=349DDD" alt="Xcode logo" title="Xcode" height="25"/>
+<img src="https://img.shields.io/badge/SPM-282C34?logo=swift&logoColor=349DDD" alt="SPM logo" title="SPM" height="25"/>
+<img src="https://img.shields.io/badge/CocoaPods-282C34?logo=cocoapods&logoColor=349DDD" alt="CocoaPods logo" title="CocoaPods" height="25"/>
+<img src="https://img.shields.io/badge/Carthage-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=349DDD" alt="Figma logo" title="Figma" height="25"/>
+<img src="https://img.shields.io/badge/Sketch-282C34?logo=sketch&logoColor=349DDD" alt="Sketch logo" title="Sketch" height="25"/>
+</div>
+
+<h4>Programming Principles</h4>
+<div>
+<img src="https://img.shields.io/badge/OOP-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/POP-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/SOLID-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/TDD-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/DRY-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/KISS-282C34?logoColor=349DDD" height="25"/>
+<img src="https://img.shields.io/badge/YAGNI-282C34?logoColor=349DDD" height="25"/>
+</div>
 </div>
 
 # 🪄 Last Projects!
@@ -81,13 +160,13 @@ I am pleased to present my portfolio, which represents the culmination of my stu
 
 # 📱 Contact Me 
 <p>
-  <a href="https://github.com/mustafos" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> 
-  <a href="https://t.me/mustafosID" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a> 
-  <a href="https://www.linkedin.com/in/mustafabekirov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@mustafos" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/~011f344b230ef86aa7" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork-%118A00.svg?&style=for-the-badge&logo=upwork&logoColor=white" /></a> 
-  <a href="https://apps.apple.com/cz/developer/mustafa-bekirov/id1721037757" target="_blank"><img alt="AppStore" src="https://img.shields.io/badge/AppStore-%231DA1F2.svg?&style=for-the-badge&logo=AppStore&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mustafos" alt="gargakshit"/>
+<a href="https://github.com/mustafos" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> 
+<a href="https://t.me/mustafosID" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/mustafabekirov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@mustafos" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~011f344b230ef86aa7" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork-%118A00.svg?&style=for-the-badge&logo=upwork&logoColor=white" /></a> 
+<a href="https://apps.apple.com/cz/developer/mustafa-bekirov/id1721037757" target="_blank"><img alt="AppStore" src="https://img.shields.io/badge/AppStore-%231DA1F2.svg?&style=for-the-badge&logo=AppStore&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=mustafos&style=for-the-badge" alt="mustafos"/>
 </p>
 
 # 📊 Stats
