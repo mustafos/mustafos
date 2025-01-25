@@ -30,7 +30,7 @@ Your journey to success on the road begins right now!
 Become a professional driver with DriverPro!
 [Download the app now!](https://apps.apple.com/cz/app/driverpro-plan-study-test/id6474212227)
 
-##### 🛠️ Technologies: SwiftUI, MVVM, Supabase, Notifications, Kingfisher, YoutubePlayerKit.
+##### 🛠️ Technologies: Swift, SwiftUI, MVVM, Supabase, Notifications, Kingfisher, YoutubePlayerKit.
 ##### 📱 Platform: iOS & iPadOS
 <p align="center">
 <a href="https://apps.apple.com/cz/app/driverpro-plan-study-test/id6474212227" target="_blank"><img src="assets/driver.png" width="900" title="DriverPro: Plan, Study, Test!"></a>
@@ -39,7 +39,7 @@ Become a professional driver with DriverPro!
 ## [AppStore Clone](https://github.com/mustafos/AppStore)
 This project was a fantastic opportunity to hone my skills in SwiftUI and Combine, and I also took on the challenge of migrating the application to iOS 17.5. I learned a lot about modern iOS development and the latest advancements in the ecosystem. I'm always looking to improve and would love to hear your feedback! Feel free to clone, fork, and contribute to the project. Let's make it better together! [Available on GitHub](https://github.com/mustafos/AppStore)
 
-##### 🛠️ Technologies: Swift, SwiftUI, Combine, MVVM-C.
+##### 🛠️ Technologies: Swift, SwiftUI, Combine, MVVM.
 ##### 📱 Platform: iOS
 <p align="center">
 <a href="https://github.com/mustafos/AppStore" target="_blank"><img src="https://github.com/mustafos/AppStore/blob/master/appstore_banner.png" width="900" title="AppStore Clone"></a>
