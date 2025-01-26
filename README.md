@@ -23,17 +23,26 @@ My experience in developing and deploying iOS applications, combined with my pro
 </div>
 
 # 🪄 Last Projects!
-## [DriverPro: Plan, Study, Test!](https://apps.apple.com/cz/app/driverpro-plan-study-test/id6474212227)
+## [QırımKey - The First Crimean Tatar](https://apps.apple.com/app/id6739430313)
+The first iOS keyboard for the Crimean Tatar language, designed to make typing seamless and accessible. As an iOS Developer, I contributed to UI/UX design, integrating a user-friendly interface tailored to the language’s unique needs. I optimized performance, fixed critical bugs, and implemented CI/CD pipelines to streamline development. This open-source project preserves the Crimean Tatar language digitally, combining cultural significance with innovative technology. [Download on the App Store](https://apps.apple.com/app/id6739430313) [View on GitHub](https://github.com/qirimca/Keyboard)
+
+##### 🛠️ Technologies: Swift, UI/UX Design, CI/CD, Fastlane, PostgreSQL KeyboardKit.
+##### 📱 Platform: Keyboard utility
+<p align="center">
+<a href="https://apps.apple.com/app/id6739430313" target="_blank"><img src="https://github.com/qirimca/Keyboard/blob/main/assets/main_banner.png" width="900" title="QırımKey"></a>
+</p>
+
+## [DriverPro: Plan, Study, Test!](https://appadvice.com/app/driverpro-plan-study-test/6474212227)
 DriverPro is your comprehensive guide on the journey to becoming a skilled and confident driver in the Czech Republic. Whether you are a beginner, an experienced driver seeking improvement, or preparing for a driving test, DriverPro simplifies your learning process. Our application follows a simple but effective mantra: Plan,
 Study, Test.
 Your journey to success on the road begins right now!
 Become a professional driver with DriverPro!
-[Download the app now!](https://apps.apple.com/cz/app/driverpro-plan-study-test/id6474212227)
+[Download the app now!](https://appadvice.com/app/driverpro-plan-study-test/6474212227)
 
 ##### 🛠️ Technologies: Swift, SwiftUI, MVVM, Supabase, Notifications, Kingfisher, YoutubePlayerKit.
 ##### 📱 Platform: iOS & iPadOS
 <p align="center">
-<a href="https://apps.apple.com/cz/app/driverpro-plan-study-test/id6474212227" target="_blank"><img src="assets/driver.png" width="900" title="DriverPro: Plan, Study, Test!"></a>
+<a href="https://appadvice.com/app/driverpro-plan-study-test/6474212227" target="_blank"><img src="assets/driver.png" width="900" title="DriverPro: Plan, Study, Test!"></a>
 </p>
 
 ## [AppStore Clone](https://github.com/mustafos/AppStore)
