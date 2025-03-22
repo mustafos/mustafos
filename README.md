@@ -82,6 +82,15 @@ GoogleScrape is a simple web application designed to fetch and parse organic sea
 <a href="https://github.com/mustafos/GoogleScrape" target="_blank"><img src="https://github.com/mustafos/GoogleScrape/blob/master/illustration/banner.gif" width="900" title="GoogleScrape"></a>
 </p>
 
+## [AppCycle Studio](https://appcycle.io)
+AppCycle Studio is a micro agency focused on native iOS and Android app development for the European market. As the founder and lead developer, I designed and launched the official [company website](https://appcycle.io), implementing a clean, professional, and responsive interface to present our services and portfolio.
+
+##### 🛠️ Technologies: HTML, CSS, JavaScript, PHP, Bootstrap
+##### 🖥️ Platform: Web
+<p align="center">
+<a href="https://appcycle.io" target="_blank"><img src="assets/appcycle.png" width="900" title="AppCycleStudio"></a>
+</p>
+
 ## [Portfolio Website](https://mustafos.github.io)
 I am pleased to present my portfolio, which represents the culmination of my studies in the renowned CS50 course by Harvard University. It is my hope that this showcase will demonstrate my skills, passion, and dedication to the field of computer science and related disciplines. Each project reflects my commitment to excellence and my thirst for knowledge, as well as my ability to apply theoretical concepts to practical solutions. I invite you to explore the creations born from countless hours of learning. [Go to the web 🌐](https://mustafos.github.io)
 
