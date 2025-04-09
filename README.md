@@ -23,6 +23,16 @@ My experience in developing and deploying iOS applications, combined with my pro
 </div>
 
 # 🪄 Last Projects!
+
+## [QRFusion – Minimal QR Scanner with TCA](https://github.com/mustafos/QRFusion)
+ScannerApp is a lightweight QR code scanner built with a clean architecture using The Composable Architecture (TCA) and SwiftUI. It features real-time QR scanning, gallery image decoding, and a personal QR code generator with custom design. Inspired by modern UX/UI principles, the app demonstrates effective state management, modular design, and production-grade architecture. [👉 GitHub Repository 👈](https://github.com/mustafos/QRFusion.git)
+
+##### 🛠️ Technologies: Swift, SwiftUI, The Composable Architecture (TCA), AVFoundation, Vision, PHPicker
+##### 📱 Platform: iOS
+<p align="center">
+<a href="https://github.com/mustafos/QRFusion.git" target="_blank"><img src="https://github.com/mustafos/QRFusion/blob/master/Assets/fusion_banner.gif" width="900" title="QRFusion"></a>
+</p>
+
 ## [QırımKey - The First Crimean Tatar](https://apps.apple.com/app/id6739430313)
 The first iOS keyboard for the Crimean Tatar language, designed to make typing seamless and accessible. As an iOS Developer, I contributed to UI/UX design, integrating a user-friendly interface tailored to the language’s unique needs. I optimized performance, fixed critical bugs, and implemented CI/CD pipelines to streamline development. This open-source project preserves the Crimean Tatar language digitally, combining cultural significance with innovative technology. [Download on the App Store](https://apps.apple.com/app/id6739430313) [View on GitHub](https://github.com/qirimca/Keyboard)
 
