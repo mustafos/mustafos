@@ -7,14 +7,17 @@ My experience in developing and deploying iOS applications, combined with my pro
 <div>
 <img height="48" width="48" src="https://cdn.simpleicons.org/swift">
 <img height="48" width="48" src="https://cdn.simpleicons.org/uikit">
-<img height="48" width="48" src="https://cdn.simpleicons.org/realm">
+<img height="48" width="48" src="https://cdn.simpleicons.org/python">
 <img height="48" width="48" src="https://cdn.simpleicons.org/firebase">
+<img height="48" width="48" src="https://cdn.simpleicons.org/supabase">
+<img height="48" width="48" src="https://cdn.simpleicons.org/postgresql">
 <img height="48" width="48" src="https://cdn.simpleicons.org/xcode">
 <img height="48" width="48" src="https://cdn.simpleicons.org/cocoapods">
+<img height="48" width="48" src="https://cdn.simpleicons.org/strapi">
+<img height="48" width="48" src="https://cdn.simpleicons.org/auth0">
 <img height="48" width="48" src="https://cdn.simpleicons.org/git">
 <img height="48" width="48" src="https://cdn.simpleicons.org/gitlab">
 <img height="48" width="48" src="https://cdn.simpleicons.org/bitbucket">
-<img height="48" width="48" src="https://cdn.simpleicons.org/slack">
 <img height="48" width="48" src="https://cdn.simpleicons.org/jira">
 <img height="48" width="48" src="https://cdn.simpleicons.org/confluence">
 <img height="48" width="48" src="https://cdn.simpleicons.org/figma">
@@ -30,7 +33,7 @@ End-to-end operator platform: alert intake → scan & rank → human review → 
 ##### 🛠️ Technologies: Python, FastAPI, Django, Node.js, Neon, DeepLOB, TradingView, BingX, Gemini
 ##### 🖥️ Platform: Web dashboard (local) — no order APIs
 <p align="center">
-<img src="https://raw.githubusercontent.com/mustafos/mandate.png" width="900" title="Mandate OS">
+<img src="assets/mandate.png" width="900" title="Mandate OS">
 </p>
 
 ## [QRFusion – Minimal QR Scanner with TCA](https://github.com/mustafos/QRFusion)
