@@ -24,6 +24,15 @@ My experience in developing and deploying iOS applications, combined with my pro
 
 # 🪄 Last Projects!
 
+## [Mandate OS — Research Desk & Execution Discipline Engine](http://127.0.0.1:8787/dashboard)
+End-to-end operator platform: alert intake → scan & rank → human review → PRE_ENTRY workflow → trade plan & execution_ready gates. Built for process enforcement, not for clicking Buy/Sell. Phase 4 adds watchlists, scanner jobs, BTC desk, research queue, heatmaps, and journal bridge from research cards.
+
+##### 🛠️ Technologies: Python, FastAPI, Django, Node.js, Neon, DeepLOB, TradingView, BingX, Gemini
+##### 🖥️ Platform: Web dashboard (local) — no order APIs
+<p align="center">
+<img src="https://raw.githubusercontent.com/mustafos/mandate.png" width="900" title="Mandate OS">
+</p>
+
 ## [QRFusion – Minimal QR Scanner with TCA](https://github.com/mustafos/QRFusion)
 ScannerApp is a lightweight QR code scanner built with a clean architecture using The Composable Architecture (TCA) and SwiftUI. It features real-time QR scanning, gallery image decoding, and a personal QR code generator with custom design. Inspired by modern UX/UI principles, the app demonstrates effective state management, modular design, and production-grade architecture. [👉 GitHub Repository 👈](https://github.com/mustafos/QRFusion.git)
 
@@ -133,11 +142,17 @@ I am pleased to present my portfolio, which represents the culmination of my stu
 
 # 📊 Stats
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafos&bg_color=282C34&color=FFFFFF&line=FFFFFF&point=349DDD" width="95%">
-<img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=mustafos&theme=sea&background=282C34">
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=mustafos&count_private=true&include_all_commits=true&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=349DDD&bg_color=282C34"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafos&layout=compact&title_color=FFFFFF&text_color=FFFFFF&icon_color=349DDD&bg_color=282C34"/>
-<br>
-<br>
-<a href="https://www.buymeacoffee.com/mustafos"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aveek.saha" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafos&theme=react-dark&hide_border=true&bg_color=282C34&color=FFFFFF&line=349DDD&point=FFFFFF&area=true" width="100%" alt="Activity graph" />
+</p>
+
+<p align="center">
+  <img height="195" src="https://streak-stats.demolab.com/?user=mustafos&theme=dark&background=282C34&hide_border=true&ring=349DDD&fire=349DDD&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Streak" />
+  <img height="195" src="https://github-readme-stats.shion.dev/api?username=mustafos&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=349DDD&bg_color=282C34" alt="Stats" />
+  <img height="195" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mustafos&layout=compact&langs_count=8&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=282C34" alt="Top languages" />
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mustafos">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+  </a>
 </p>
